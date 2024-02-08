@@ -187,7 +187,7 @@ export function createIrysUploader(
       return;
     }
 
-    await irys.fund(toFund);
+    await irys.fund(toFund, 1.5);
   };
 
   const withdrawAll = async (): Promise<void> => {
