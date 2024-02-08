@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/umi",
+  "name": "@stay.hungry07212/umi",
   "private": true,
   "workspaces": [
     "packages/*"
