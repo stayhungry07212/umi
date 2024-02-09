@@ -1,5 +1,5 @@
 {
-  "name": "@stay.hungry07212/umi-uploader-irys-with-multiplier",
+  "name": "@stay.hungry07212/umi-uploader-irys",
   "version": "0.9.1",
   "description": "An uploader implementation relying on Irys",
   "license": "MIT",
