@@ -4,13 +4,13 @@ import {
   PublicKeyInput,
   publicKeyBytes,
   publicKey as toPublicKey,
-} from '@metaplex-foundation/umi-public-keys';
+} from '@stay.hungry07212/umi-public-keys';
 import {
   BaseSerializerOptions,
   DeserializingEmptyBufferError,
   NotEnoughBytesError,
   Serializer,
-} from '@metaplex-foundation/umi-serializers-core';
+} from '@stay.hungry07212/umi-serializers-core';
 
 /**
  * Defines the options for `PublicKey` serializers.

@@ -11,7 +11,7 @@ import {
   PublicKey,
   PublicKeyInput,
   Transaction,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import {
   ProgramErrorNotRecognizedError,
   ProgramNotRecognizedError,

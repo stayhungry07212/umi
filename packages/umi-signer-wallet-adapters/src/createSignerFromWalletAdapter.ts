@@ -1,4 +1,4 @@
-import type { PublicKey, Signer, Transaction } from '@metaplex-foundation/umi';
+import type { PublicKey, Signer, Transaction } from '@stay.hungry07212/umi';
 import {
   PublicKey as Web3JsPublicKey,
   Transaction as Web3JsTransaction,
@@ -8,7 +8,7 @@ import {
   fromWeb3JsPublicKey,
   fromWeb3JsTransaction,
   toWeb3JsTransaction,
-} from '@metaplex-foundation/umi-web3js-adapters';
+} from '@stay.hungry07212/umi-web3js-adapters';
 import {
   OperationNotSupportedByWalletAdapterError,
   UninitializedWalletAdapterError,

@@ -1,5 +1,5 @@
 /* eslint-disable import/no-extraneous-dependencies */
-import { Serializer } from '@metaplex-foundation/umi-serializers-core';
+import { Serializer } from '@stay.hungry07212/umi-serializers-core';
 import { Assertions } from 'ava';
 
 export const assertValid = <T>(

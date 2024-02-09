@@ -1,4 +1,4 @@
-import type { PublicKey } from '@metaplex-foundation/umi-public-keys';
+import type { PublicKey } from '@stay.hungry07212/umi-public-keys';
 import type { Context } from './Context';
 import type { Signer } from './Signer';
 import { addTransactionSignature, Transaction } from './Transaction';

@@ -1,4 +1,4 @@
-import type { UmiPlugin } from '@metaplex-foundation/umi';
+import type { UmiPlugin } from '@stay.hungry07212/umi';
 import {
   createNftStorageUploader,
   NftStorageUploaderOptions,

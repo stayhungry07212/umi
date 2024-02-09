@@ -1,4 +1,4 @@
-import type { PublicKey } from '@metaplex-foundation/umi-public-keys';
+import type { PublicKey } from '@stay.hungry07212/umi-public-keys';
 import type { Signer } from './Signer';
 
 /**

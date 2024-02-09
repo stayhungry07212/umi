@@ -11,7 +11,7 @@ import {
   SolAmount,
   UploaderInterface,
   UploaderUploadOptions,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import { NFTStorageMetaplexor } from '@nftstorage/metaplex-auth';
 import { MemoryBlockStore } from 'ipfs-car/blockstore/memory';
 import { Blob, NFTStorage } from 'nft.storage';
@@ -55,7 +55,7 @@ export function createNftStorageUploader(
 
     const signer: Signer = payer ?? context.payer;
     const authOptions = {
-      mintingAgent: '@metaplex-foundation/umi-plugin-nft-storage',
+      mintingAgent: '@stay.hungry07212/umi-plugin-nft-storage',
       solanaCluster: context.rpc.getCluster(),
       endpoint,
     };

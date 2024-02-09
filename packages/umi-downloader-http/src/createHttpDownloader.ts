@@ -5,7 +5,7 @@ import {
   DownloaderOptions,
   GenericFile,
   request,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 
 export function createHttpDownloader(
   context: Pick<Context, 'http'>

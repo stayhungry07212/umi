@@ -1,4 +1,4 @@
-import { Keypair, publicKeyBytes } from '@metaplex-foundation/umi';
+import { Keypair, publicKeyBytes } from '@stay.hungry07212/umi';
 import { Keypair as Web3JsKeypair } from '@solana/web3.js';
 import { fromWeb3JsPublicKey } from './PublicKey';
 

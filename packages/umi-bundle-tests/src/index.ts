@@ -4,8 +4,8 @@ import {
   sol,
   Context,
   generateSigner,
-} from '@metaplex-foundation/umi';
-import { Web3JsRpcOptions } from '@metaplex-foundation/umi-rpc-web3js';
+} from '@stay.hungry07212/umi';
+import { Web3JsRpcOptions } from '@stay.hungry07212/umi-rpc-web3js';
 import { testPlugins } from './plugin';
 
 export const createUmi = async (

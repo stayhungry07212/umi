@@ -2,11 +2,11 @@ import {
   BaseSerializerOptions,
   DeserializingEmptyBufferError,
   Serializer,
-} from '@metaplex-foundation/umi-serializers-core';
+} from '@stay.hungry07212/umi-serializers-core';
 import {
   NumberSerializer,
   u8,
-} from '@metaplex-foundation/umi-serializers-numbers';
+} from '@stay.hungry07212/umi-serializers-numbers';
 import {
   EnumDiscriminatorOutOfRangeError,
   InvalidScalarEnumVariantError,

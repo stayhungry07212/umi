@@ -1,4 +1,4 @@
-import { utf8 } from '@metaplex-foundation/umi-serializers';
+import { utf8 } from '@stay.hungry07212/umi-serializers';
 import { generateRandomString } from './utils';
 
 /**

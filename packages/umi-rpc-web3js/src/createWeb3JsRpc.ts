@@ -41,13 +41,13 @@ import {
   isZeroAmount,
   lamports,
   resolveClusterFromEndpoint,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import {
   fromWeb3JsMessage,
   fromWeb3JsPublicKey,
   toWeb3JsPublicKey,
-} from '@metaplex-foundation/umi-web3js-adapters';
-import { base58 } from '@metaplex-foundation/umi/serializers';
+} from '@stay.hungry07212/umi-web3js-adapters';
+import { base58 } from '@stay.hungry07212/umi/serializers';
 import {
   AccountInfo as Web3JsAccountInfo,
   Connection as Web3JsConnection,

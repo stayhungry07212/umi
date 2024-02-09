@@ -1,6 +1,6 @@
-import { Umi, createUmi as baseCreateUmi } from '@metaplex-foundation/umi';
-import type { ChunkGetAccountsRpcOptions } from '@metaplex-foundation/umi-rpc-chunk-get-accounts';
-import type { Web3JsRpcOptions } from '@metaplex-foundation/umi-rpc-web3js';
+import { Umi, createUmi as baseCreateUmi } from '@stay.hungry07212/umi';
+import type { ChunkGetAccountsRpcOptions } from '@stay.hungry07212/umi-rpc-chunk-get-accounts';
+import type { Web3JsRpcOptions } from '@stay.hungry07212/umi-rpc-web3js';
 import type { Connection as Web3JsConnection } from '@solana/web3.js';
 import { defaultPlugins } from './plugin';
 

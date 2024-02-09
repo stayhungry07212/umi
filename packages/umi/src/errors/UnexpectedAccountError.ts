@@ -1,4 +1,4 @@
-import { PublicKey } from '@metaplex-foundation/umi-public-keys';
+import { PublicKey } from '@stay.hungry07212/umi-public-keys';
 import { SdkError } from './SdkError';
 
 /** @category Errors */

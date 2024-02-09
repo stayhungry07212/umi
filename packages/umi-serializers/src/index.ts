@@ -1,6 +1,6 @@
-export * from '@metaplex-foundation/umi-serializers-core';
-export * from '@metaplex-foundation/umi-serializers-encodings';
-export * from '@metaplex-foundation/umi-serializers-numbers';
+export * from '@stay.hungry07212/umi-serializers-core';
+export * from '@stay.hungry07212/umi-serializers-encodings';
+export * from '@stay.hungry07212/umi-serializers-numbers';
 
 export * from './array';
 export * from './bitArray';

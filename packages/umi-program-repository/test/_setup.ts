@@ -5,7 +5,7 @@ import {
   createUmi as baseCreateUmi,
   defaultPublicKey,
   publicKey,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import { defaultProgramRepository } from '../src';
 
 export const createUmi = (cluster: Cluster = 'localnet') => {

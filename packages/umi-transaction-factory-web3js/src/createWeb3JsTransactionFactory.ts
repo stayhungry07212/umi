@@ -11,7 +11,7 @@ import {
   TransactionMessage,
   TransactionMessageHeader,
   TransactionVersion,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import {
   shortU16,
   base58,
@@ -23,11 +23,11 @@ import {
   string,
   publicKey,
   u8,
-} from '@metaplex-foundation/umi/serializers';
+} from '@stay.hungry07212/umi/serializers';
 import {
   fromWeb3JsMessage,
   toWeb3JsMessageFromInput,
-} from '@metaplex-foundation/umi-web3js-adapters';
+} from '@stay.hungry07212/umi-web3js-adapters';
 import { VersionedTransaction as Web3JsTransaction } from '@solana/web3.js';
 
 const TRANSACTION_VERSION_FLAG = 0x80;

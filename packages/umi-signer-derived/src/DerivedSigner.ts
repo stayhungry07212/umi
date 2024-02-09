@@ -5,7 +5,7 @@ import {
   KeypairSigner,
   Signer,
   utf8,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import { sha512 } from '@noble/hashes/sha512';
 
 export type DerivedSigner = KeypairSigner & {

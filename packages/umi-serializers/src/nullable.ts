@@ -1,14 +1,14 @@
-import { Nullable } from '@metaplex-foundation/umi-options';
+import { Nullable } from '@stay.hungry07212/umi-options';
 import {
   BaseSerializerOptions,
   ExpectedFixedSizeSerializerError,
   Serializer,
   mergeBytes,
-} from '@metaplex-foundation/umi-serializers-core';
+} from '@stay.hungry07212/umi-serializers-core';
 import {
   NumberSerializer,
   u8,
-} from '@metaplex-foundation/umi-serializers-numbers';
+} from '@stay.hungry07212/umi-serializers-numbers';
 import { sumSerializerSizes } from './sumSerializerSizes';
 import { getSizeDescription } from './utils';
 

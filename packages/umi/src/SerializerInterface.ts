@@ -1,8 +1,8 @@
-import type { Nullable, Option } from '@metaplex-foundation/umi-options';
+import type { Nullable, Option } from '@stay.hungry07212/umi-options';
 import type {
   PublicKey,
   PublicKeyInput,
-} from '@metaplex-foundation/umi-public-keys';
+} from '@stay.hungry07212/umi-public-keys';
 import type {
   ArraySerializerOptions,
   BoolSerializerOptions,
@@ -24,7 +24,7 @@ import type {
   TupleSerializerOptions,
   UnitSerializerOptions,
   WrapInSerializer,
-} from '@metaplex-foundation/umi-serializers';
+} from '@stay.hungry07212/umi-serializers';
 import { DataEnum, ScalarEnum } from './Enums';
 import { InterfaceImplementationMissingError } from './errors';
 

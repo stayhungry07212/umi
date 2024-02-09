@@ -1,4 +1,4 @@
-import type { PublicKey } from '@metaplex-foundation/umi-public-keys';
+import type { PublicKey } from '@stay.hungry07212/umi-public-keys';
 import type { MaybeRpcAccount, RpcAccount } from './Account';
 import { SolAmount } from './Amount';
 import type { Cluster } from './Cluster';

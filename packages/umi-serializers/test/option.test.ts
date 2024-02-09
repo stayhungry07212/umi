@@ -1,4 +1,4 @@
-import { none, some } from '@metaplex-foundation/umi-options';
+import { none, some } from '@stay.hungry07212/umi-options';
 import test from 'ava';
 import { option, string, u16, u64, u8 } from '../src';
 import { d, s } from './_helpers';

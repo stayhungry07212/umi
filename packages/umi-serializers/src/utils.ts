@@ -1,4 +1,4 @@
-import type { NumberSerializer } from '@metaplex-foundation/umi-serializers-numbers';
+import type { NumberSerializer } from '@stay.hungry07212/umi-serializers-numbers';
 import { ArrayLikeSerializerSize } from './arrayLikeSerializerSize';
 import { UnrecognizedArrayLikeSerializerSizeError } from './errors';
 import { sumSerializerSizes } from './sumSerializerSizes';

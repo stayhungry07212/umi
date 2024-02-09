@@ -1,5 +1,5 @@
 import { PutObjectCommand, S3Client } from '@aws-sdk/client-s3';
-import { createGenericFile, utf8 } from '@metaplex-foundation/umi';
+import { createGenericFile, utf8 } from '@stay.hungry07212/umi';
 import test from 'ava';
 import sinon from 'sinon';
 import { createAwsUploader } from '../src';

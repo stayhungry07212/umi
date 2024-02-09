@@ -1,4 +1,4 @@
-import { NumberSerializer } from '@metaplex-foundation/umi-serializers-numbers';
+import { NumberSerializer } from '@stay.hungry07212/umi-serializers-numbers';
 
 /**
  * Represents all the size options for array-like serializers

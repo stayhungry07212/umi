@@ -1,4 +1,4 @@
-import { base58, Transaction } from '@metaplex-foundation/umi';
+import { base58, Transaction } from '@stay.hungry07212/umi';
 import {
   SIGNATURE_LENGTH_IN_BYTES,
   Transaction as Web3JsLegacyTransaction,

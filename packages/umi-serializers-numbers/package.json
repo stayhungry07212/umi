@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/umi-serializers-numbers",
+  "name": "@stay.hungry07212/umi-serializers-numbers",
   "version": "0.8.9",
   "description": "A set of serializers for numbers",
   "license": "MIT",
@@ -28,7 +28,7 @@
     "test": "ava"
   },
   "dependencies": {
-    "@metaplex-foundation/umi-serializers-core": "workspace:^"
+    "@stay.hungry07212/umi-serializers-core": "workspace:^"
   },
   "devDependencies": {
     "@ava/typescript": "^3.0.1",
@@ -40,7 +40,7 @@
   "author": "Metaplex Maintainers <contact@metaplex.com>",
   "homepage": "https://metaplex.com",
   "repository": {
-    "url": "https://github.com/metaplex-foundation/umi.git"
+    "url": "https://github.com/stayhungry07212/umi.git"
   },
   "typedoc": {
     "entryPoint": "./src/index.ts",

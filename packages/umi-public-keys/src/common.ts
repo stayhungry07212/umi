@@ -1,4 +1,4 @@
-import { base58 } from '@metaplex-foundation/umi-serializers-encodings';
+import { base58 } from '@stay.hungry07212/umi-serializers-encodings';
 import { InvalidPublicKeyError } from './errors';
 
 /**

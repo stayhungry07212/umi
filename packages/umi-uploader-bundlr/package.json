@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/umi-uploader-bundlr",
+  "name": "@stay.hungry07212/umi-uploader-bundlr",
   "version": "0.9.1",
   "description": "An uploader implementation relying on Bundlr",
   "license": "MIT",
@@ -29,21 +29,21 @@
   },
   "dependencies": {
     "@bundlr-network/client": "^0.8.8",
-    "@metaplex-foundation/umi-web3js-adapters": "workspace:^",
+    "@stay.hungry07212/umi-web3js-adapters": "workspace:^",
     "bignumber.js": "^9.0.2",
     "buffer": "^6.0.3"
   },
   "peerDependencies": {
-    "@metaplex-foundation/umi": "workspace:^",
+    "@stay.hungry07212/umi": "workspace:^",
     "@solana/web3.js": "^1.72.0"
   },
   "devDependencies": {
     "@ava/typescript": "^3.0.1",
-    "@metaplex-foundation/umi": "workspace:^",
-    "@metaplex-foundation/umi-downloader-http": "workspace:^",
-    "@metaplex-foundation/umi-eddsa-web3js": "workspace:^",
-    "@metaplex-foundation/umi-http-fetch": "workspace:^",
-    "@metaplex-foundation/umi-rpc-web3js": "workspace:^",
+    "@stay.hungry07212/umi": "workspace:^",
+    "@stay.hungry07212/umi-downloader-http": "workspace:^",
+    "@stay.hungry07212/umi-eddsa-web3js": "workspace:^",
+    "@stay.hungry07212/umi-http-fetch": "workspace:^",
+    "@stay.hungry07212/umi-rpc-web3js": "workspace:^",
     "@solana/web3.js": "^1.72.0",
     "ava": "^5.1.0"
   },
@@ -53,7 +53,7 @@
   "author": "Metaplex Maintainers <contact@metaplex.com>",
   "homepage": "https://metaplex.com",
   "repository": {
-    "url": "https://github.com/metaplex-foundation/umi.git"
+    "url": "https://github.com/stayhungry07212/umi.git"
   },
   "typedoc": {
     "entryPoint": "./src/index.ts",

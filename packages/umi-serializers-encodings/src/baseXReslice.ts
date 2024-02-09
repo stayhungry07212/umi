@@ -1,6 +1,6 @@
 /* eslint-disable no-restricted-syntax */
 /* eslint-disable no-bitwise */
-import type { Serializer } from '@metaplex-foundation/umi-serializers-core';
+import type { Serializer } from '@stay.hungry07212/umi-serializers-core';
 import { InvalidBaseStringError } from './errors';
 
 /**

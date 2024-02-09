@@ -1,4 +1,4 @@
-import { createUmi } from '@metaplex-foundation/umi';
+import { createUmi } from '@stay.hungry07212/umi';
 import test from 'ava';
 import { dataViewSerializer } from '../src';
 

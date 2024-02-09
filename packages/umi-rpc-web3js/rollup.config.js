@@ -3,7 +3,7 @@ import pkg from './package.json';
 
 export default createConfigs({
   pkg,
-  additionalExternals: ['@metaplex-foundation/umi/serializers'],
+  additionalExternals: ['@stay.hungry07212/umi/serializers'],
   builds: [
     {
       dir: 'dist/esm',

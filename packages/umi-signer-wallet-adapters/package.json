@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/umi-signer-wallet-adapters",
+  "name": "@stay.hungry07212/umi-signer-wallet-adapters",
   "version": "0.9.1",
   "description": "A Signer implementation relying on Solana's wallet adapters",
   "license": "MIT",
@@ -28,15 +28,15 @@
     "test": "ava"
   },
   "dependencies": {
-    "@metaplex-foundation/umi-web3js-adapters": "workspace:^"
+    "@stay.hungry07212/umi-web3js-adapters": "workspace:^"
   },
   "peerDependencies": {
-    "@metaplex-foundation/umi": "workspace:^",
+    "@stay.hungry07212/umi": "workspace:^",
     "@solana/web3.js": "^1.72.0"
   },
   "devDependencies": {
     "@ava/typescript": "^3.0.1",
-    "@metaplex-foundation/umi": "workspace:^",
+    "@stay.hungry07212/umi": "workspace:^",
     "@solana/web3.js": "^1.72.0",
     "ava": "^5.1.0"
   },
@@ -46,7 +46,7 @@
   "author": "Metaplex Maintainers <contact@metaplex.com>",
   "homepage": "https://metaplex.com",
   "repository": {
-    "url": "https://github.com/metaplex-foundation/umi.git"
+    "url": "https://github.com/stayhungry07212/umi.git"
   },
   "typedoc": {
     "entryPoint": "./src/index.ts",

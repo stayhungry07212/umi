@@ -5,12 +5,12 @@ import {
   Serializer,
   fixSerializer,
   mergeBytes,
-} from '@metaplex-foundation/umi-serializers-core';
-import { utf8 } from '@metaplex-foundation/umi-serializers-encodings';
+} from '@stay.hungry07212/umi-serializers-core';
+import { utf8 } from '@stay.hungry07212/umi-serializers-encodings';
 import {
   NumberSerializer,
   u32,
-} from '@metaplex-foundation/umi-serializers-numbers';
+} from '@stay.hungry07212/umi-serializers-numbers';
 import { getSizeDescription } from './utils';
 
 /**

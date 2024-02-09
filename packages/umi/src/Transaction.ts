@@ -1,4 +1,4 @@
-import { PublicKey } from '@metaplex-foundation/umi-public-keys';
+import { PublicKey } from '@stay.hungry07212/umi-public-keys';
 import { Amount, SolAmount } from './Amount';
 import type { Instruction } from './Instruction';
 import type { Commitment } from './RpcInterface';

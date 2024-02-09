@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/umi-tasks",
+  "name": "@stay.hungry07212/umi-tasks",
   "version": "0.8.9",
   "description": "A helper package to handle asynchronous tasks",
   "license": "MIT",
@@ -40,7 +40,7 @@
   "author": "Metaplex Maintainers <contact@metaplex.com>",
   "homepage": "https://metaplex.com",
   "repository": {
-    "url": "https://github.com/metaplex-foundation/umi.git"
+    "url": "https://github.com/stayhungry07212/umi.git"
   },
   "typedoc": {
     "entryPoint": "./src/index.ts",

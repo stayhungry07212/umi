@@ -1,4 +1,4 @@
-import { UmiError } from '@metaplex-foundation/umi';
+import { UmiError } from '@stay.hungry07212/umi';
 
 export class WalletAdaptersError extends UmiError {
   readonly name: string = 'WalletAdaptersError';

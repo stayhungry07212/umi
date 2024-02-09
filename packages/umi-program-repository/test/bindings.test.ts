@@ -1,4 +1,4 @@
-import { Program, publicKey } from '@metaplex-foundation/umi';
+import { Program, publicKey } from '@stay.hungry07212/umi';
 import test from 'ava';
 import { createProgram, createUmi } from './_setup';
 

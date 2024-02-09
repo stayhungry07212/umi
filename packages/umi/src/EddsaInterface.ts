@@ -1,4 +1,4 @@
-import type { Pda, PublicKey } from '@metaplex-foundation/umi-public-keys';
+import type { Pda, PublicKey } from '@stay.hungry07212/umi-public-keys';
 import { InterfaceImplementationMissingError } from './errors';
 import type { Keypair } from './Keypair';
 

@@ -1,4 +1,4 @@
-import { Instruction } from '@metaplex-foundation/umi';
+import { Instruction } from '@stay.hungry07212/umi';
 import { TransactionInstruction as Web3JsTransactionInstruction } from '@solana/web3.js';
 import { Buffer } from 'buffer';
 import { fromWeb3JsPublicKey, toWeb3JsPublicKey } from './PublicKey';

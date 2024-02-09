@@ -1,4 +1,4 @@
-import type { Serializer } from '@metaplex-foundation/umi-serializers-core';
+import type { Serializer } from '@stay.hungry07212/umi-serializers-core';
 import { baseX } from './baseX';
 
 /**

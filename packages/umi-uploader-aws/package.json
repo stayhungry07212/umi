@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/umi-uploader-aws",
+  "name": "@stay.hungry07212/umi-uploader-aws",
   "version": "0.9.1",
   "description": "An uploader implementation relying on AWS",
   "license": "MIT",
@@ -29,12 +29,12 @@
   },
   "peerDependencies": {
     "@aws-sdk/client-s3": "^3.54.1",
-    "@metaplex-foundation/umi": "workspace:^"
+    "@stay.hungry07212/umi": "workspace:^"
   },
   "devDependencies": {
     "@ava/typescript": "^3.0.1",
     "@aws-sdk/client-s3": "^3.54.1",
-    "@metaplex-foundation/umi": "workspace:^",
+    "@stay.hungry07212/umi": "workspace:^",
     "@types/sinon": "^10.0.13",
     "ava": "^5.1.0",
     "sinon": "^13.0.1"
@@ -45,7 +45,7 @@
   "author": "Metaplex Maintainers <contact@metaplex.com>",
   "homepage": "https://metaplex.com",
   "repository": {
-    "url": "https://github.com/metaplex-foundation/umi.git"
+    "url": "https://github.com/stayhungry07212/umi.git"
   },
   "typedoc": {
     "entryPoint": "./src/index.ts",

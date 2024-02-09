@@ -1,5 +1,5 @@
-export * from '@metaplex-foundation/umi-options';
-export * from '@metaplex-foundation/umi-public-keys';
+export * from '@stay.hungry07212/umi-options';
+export * from '@stay.hungry07212/umi-public-keys';
 
 // Deprecated exports.
 // They should instead be imported from "@metaplex-foundation/umi/serializers".

@@ -3,9 +3,9 @@ const test = require('ava');
 const {
   createUmi,
   generatedSignerIdentity,
-} = require('@metaplex-foundation/umi');
-const { web3JsRpc } = require('@metaplex-foundation/umi-rpc-web3js');
-const { web3JsEddsa } = require('@metaplex-foundation/umi-eddsa-web3js');
+} = require('@stay.hungry07212/umi');
+const { web3JsRpc } = require('@stay.hungry07212/umi-rpc-web3js');
+const { web3JsEddsa } = require('@stay.hungry07212/umi-eddsa-web3js');
 const exported = require('../../dist/cjs/index.cjs');
 
 test('it successfully exports commonjs named exports', (t) => {

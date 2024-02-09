@@ -1,4 +1,4 @@
-import { SdkError } from '@metaplex-foundation/umi';
+import { SdkError } from '@stay.hungry07212/umi';
 
 /** @category Errors */
 export class AssetNotFoundError extends SdkError {

@@ -5,7 +5,7 @@ import {
   lamports,
   SolAmount,
   UploaderInterface,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 
 export function createAwsUploader(
   client: S3Client,

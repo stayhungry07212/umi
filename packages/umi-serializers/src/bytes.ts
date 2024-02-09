@@ -5,8 +5,8 @@ import {
   Serializer,
   fixSerializer,
   mergeBytes,
-} from '@metaplex-foundation/umi-serializers-core';
-import { NumberSerializer } from '@metaplex-foundation/umi-serializers-numbers';
+} from '@stay.hungry07212/umi-serializers-core';
+import { NumberSerializer } from '@stay.hungry07212/umi-serializers-numbers';
 import { getSizeDescription } from './utils';
 
 /**

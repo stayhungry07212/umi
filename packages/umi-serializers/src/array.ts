@@ -2,8 +2,8 @@ import {
   BaseSerializerOptions,
   Serializer,
   mergeBytes,
-} from '@metaplex-foundation/umi-serializers-core';
-import { u32 } from '@metaplex-foundation/umi-serializers-numbers';
+} from '@stay.hungry07212/umi-serializers-core';
+import { u32 } from '@stay.hungry07212/umi-serializers-numbers';
 import { ArrayLikeSerializerSize } from './arrayLikeSerializerSize';
 import { InvalidNumberOfItemsError } from './errors';
 import {

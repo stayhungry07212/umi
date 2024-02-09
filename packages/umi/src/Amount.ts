@@ -2,7 +2,7 @@ import {
   NumberSerializer,
   Serializer,
   mapSerializer,
-} from '@metaplex-foundation/umi-serializers';
+} from '@stay.hungry07212/umi-serializers';
 import { BigIntInput, createBigInt } from './BigInt';
 import { AmountMismatchError, UnexpectedAmountError } from './errors';
 

@@ -26,7 +26,7 @@ export {
   u8,
   unit,
   shortU16,
-} from '@metaplex-foundation/umi/serializers';
+} from '@stay.hungry07212/umi/serializers';
 
 export * from './createDataViewSerializer';
 export * from './plugin';

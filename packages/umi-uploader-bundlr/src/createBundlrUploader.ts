@@ -16,13 +16,13 @@ import {
   lamports,
   publicKey,
   signTransaction,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import {
   fromWeb3JsKeypair,
   fromWeb3JsLegacyTransaction,
   toWeb3JsLegacyTransaction,
   toWeb3JsPublicKey,
-} from '@metaplex-foundation/umi-web3js-adapters';
+} from '@stay.hungry07212/umi-web3js-adapters';
 import {
   Connection as Web3JsConnection,
   Keypair as Web3JsKeypair,

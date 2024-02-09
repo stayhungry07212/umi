@@ -2,7 +2,7 @@ import {
   DeserializingEmptyBufferError,
   NotEnoughBytesError,
   Serializer,
-} from '@metaplex-foundation/umi-serializers-core';
+} from '@stay.hungry07212/umi-serializers-core';
 import {
   Endian,
   NumberSerializer,

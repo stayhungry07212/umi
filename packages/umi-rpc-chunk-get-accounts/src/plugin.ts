@@ -1,4 +1,4 @@
-import { UmiPlugin } from '@metaplex-foundation/umi';
+import { UmiPlugin } from '@stay.hungry07212/umi';
 import { createChunkGetAccountsRpc } from './createChunkGetAccountsRpc';
 
 export const chunkGetAccountsRpc = (chunkSize = 100): UmiPlugin => ({

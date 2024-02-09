@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/umi-options",
+  "name": "@stay.hungry07212/umi-options",
   "version": "0.8.9",
   "description": "A TypeScript implementation of Rust Options",
   "license": "MIT",
@@ -37,7 +37,7 @@
   "author": "Metaplex Maintainers <contact@metaplex.com>",
   "homepage": "https://metaplex.com",
   "repository": {
-    "url": "https://github.com/metaplex-foundation/umi.git"
+    "url": "https://github.com/stayhungry07212/umi.git"
   },
   "typedoc": {
     "entryPoint": "./src/index.ts",

@@ -4,11 +4,11 @@ import {
   createUmi,
   generatedSignerIdentity,
   utf8,
-} from '@metaplex-foundation/umi';
-import { httpDownloader } from '@metaplex-foundation/umi-downloader-http';
-import { web3JsEddsa } from '@metaplex-foundation/umi-eddsa-web3js';
-import { fetchHttp } from '@metaplex-foundation/umi-http-fetch';
-import { web3JsRpc } from '@metaplex-foundation/umi-rpc-web3js';
+} from '@stay.hungry07212/umi';
+import { httpDownloader } from '@stay.hungry07212/umi-downloader-http';
+import { web3JsEddsa } from '@stay.hungry07212/umi-eddsa-web3js';
+import { fetchHttp } from '@stay.hungry07212/umi-http-fetch';
+import { web3JsRpc } from '@stay.hungry07212/umi-rpc-web3js';
 import test from 'ava';
 import { nftStorageUploader, NftStorageUploaderOptions } from '../src';
 

@@ -1,9 +1,9 @@
-import { publicKey, PublicKey } from '@metaplex-foundation/umi-public-keys';
+import { publicKey, PublicKey } from '@stay.hungry07212/umi-public-keys';
 import type {
   Serializer,
   StructToSerializerTuple,
-} from '@metaplex-foundation/umi-serializers';
-import { base10, base58, base64 } from '@metaplex-foundation/umi-serializers';
+} from '@stay.hungry07212/umi-serializers';
+import { base10, base58, base64 } from '@stay.hungry07212/umi-serializers';
 import type { RpcAccount } from './Account';
 import type { Context } from './Context';
 import { SdkError } from './errors';

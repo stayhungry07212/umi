@@ -2,7 +2,7 @@ import {
   BaseSerializerOptions,
   Serializer,
   mergeBytes,
-} from '@metaplex-foundation/umi-serializers-core';
+} from '@stay.hungry07212/umi-serializers-core';
 import { sumSerializerSizes } from './sumSerializerSizes';
 
 /**

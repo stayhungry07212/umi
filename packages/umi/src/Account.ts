@@ -1,5 +1,5 @@
-import type { PublicKey } from '@metaplex-foundation/umi-public-keys';
-import type { Serializer } from '@metaplex-foundation/umi-serializers';
+import type { PublicKey } from '@stay.hungry07212/umi-public-keys';
+import type { Serializer } from '@stay.hungry07212/umi-serializers';
 import type { SolAmount } from './Amount';
 import { AccountNotFoundError, UnexpectedAccountError } from './errors';
 

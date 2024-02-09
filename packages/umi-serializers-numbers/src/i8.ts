@@ -1,4 +1,4 @@
-import { Serializer } from '@metaplex-foundation/umi-serializers-core';
+import { Serializer } from '@stay.hungry07212/umi-serializers-core';
 import { SingleByteNumberSerializerOptions } from './common';
 import { numberFactory } from './utils';
 

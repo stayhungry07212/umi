@@ -1,4 +1,4 @@
-import { UmiPlugin } from '@metaplex-foundation/umi';
+import { UmiPlugin } from '@stay.hungry07212/umi';
 import { createMockStorage, MockStorageOptions } from './createMockStorage';
 
 export const mockStorage = (options?: MockStorageOptions): UmiPlugin => ({

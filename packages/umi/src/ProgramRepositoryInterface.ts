@@ -1,7 +1,7 @@
 import type {
   PublicKey,
   PublicKeyInput,
-} from '@metaplex-foundation/umi-public-keys';
+} from '@stay.hungry07212/umi-public-keys';
 import type { ClusterFilter } from './Cluster';
 import type { ErrorWithLogs, Program } from './Program';
 import type { Transaction } from './Transaction';

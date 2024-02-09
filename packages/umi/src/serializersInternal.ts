@@ -42,7 +42,7 @@ import {
   DataEnum as _DataEnum,
   GetDataEnumKind as _GetDataEnumKind,
   GetDataEnumKindContent as _GetDataEnumKindContent,
-} from '@metaplex-foundation/umi-serializers';
+} from '@stay.hungry07212/umi-serializers';
 
 /** @deprecated import from "@metaplex-foundation/umi/serializers" instead. */
 export type Serializer<From, To extends From = From> = _Serializer<From, To>;

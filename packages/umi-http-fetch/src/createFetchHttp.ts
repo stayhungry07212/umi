@@ -2,7 +2,7 @@ import {
   HttpInterface,
   HttpRequest,
   HttpResponse,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import fetch, { BodyInit, RequestInit } from 'node-fetch';
 
 export function createFetchHttp(): HttpInterface {

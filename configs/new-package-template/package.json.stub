@@ -1,5 +1,5 @@
 {
-  "name": "@metaplex-foundation/{{package-name}}",
+  "name": "@stay.hungry07212/{{package-name}}",
   "version": "0.0.1",
   "description": "TODO",
   "license": "MIT",
@@ -41,7 +41,7 @@
   "author": "Metaplex Maintainers <contact@metaplex.com>",
   "homepage": "https://metaplex.com",
   "repository": {
-    "url": "https://github.com/metaplex-foundation/umi.git"
+    "url": "https://github.com/stayhungry07212/umi.git"
   },
   "typedoc": {
     "entryPoint": "./src/index.ts",

@@ -1,7 +1,7 @@
 import {
   PublicKey,
   PublicKeyInput,
-} from '@metaplex-foundation/umi-public-keys';
+} from '@stay.hungry07212/umi-public-keys';
 import { Transaction } from './Transaction';
 import { uniqueBy } from './utils';
 

@@ -1,4 +1,4 @@
-import { RpcInterface, chunk } from '@metaplex-foundation/umi';
+import { RpcInterface, chunk } from '@stay.hungry07212/umi';
 
 export interface ChunkGetAccountsRpcOptions {
   getAccountsChunkSize?: number;

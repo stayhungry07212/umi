@@ -1,4 +1,4 @@
-import { UmiPlugin } from '@metaplex-foundation/umi';
+import { UmiPlugin } from '@stay.hungry07212/umi';
 import { createWeb3JsTransactionFactory } from './createWeb3JsTransactionFactory';
 
 export const web3JsTransactionFactory = (): UmiPlugin => ({

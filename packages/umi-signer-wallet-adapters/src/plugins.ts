@@ -2,7 +2,7 @@ import {
   UmiPlugin,
   signerIdentity,
   signerPayer,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import {
   createSignerFromWalletAdapter,
   WalletAdapter,

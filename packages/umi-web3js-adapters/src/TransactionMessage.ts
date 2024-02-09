@@ -2,7 +2,7 @@ import {
   base58,
   TransactionInput,
   TransactionMessage,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import {
   AddressLookupTableAccount as Web3JsAddressLookupTableAccount,
   Message as Web3JsMessageLegacy,

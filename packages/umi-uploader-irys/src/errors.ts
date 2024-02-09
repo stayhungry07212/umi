@@ -1,4 +1,4 @@
-import { UmiError } from '@metaplex-foundation/umi';
+import { UmiError } from '@stay.hungry07212/umi';
 
 export class IrysError extends UmiError {
   readonly name: string = 'IrysError';

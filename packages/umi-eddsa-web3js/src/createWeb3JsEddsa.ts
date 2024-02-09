@@ -6,12 +6,12 @@ import {
   PublicKey,
   publicKeyBytes,
   PublicKeyInput,
-} from '@metaplex-foundation/umi';
+} from '@stay.hungry07212/umi';
 import {
   fromWeb3JsKeypair,
   fromWeb3JsPublicKey,
   toWeb3JsPublicKey,
-} from '@metaplex-foundation/umi-web3js-adapters';
+} from '@stay.hungry07212/umi-web3js-adapters';
 import { ed25519 } from '@noble/curves/ed25519';
 import {
   Keypair as Web3JsKeypair,

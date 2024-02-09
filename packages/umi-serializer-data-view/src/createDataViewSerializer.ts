@@ -1,4 +1,4 @@
-import { SerializerInterface } from '@metaplex-foundation/umi';
+import { SerializerInterface } from '@stay.hungry07212/umi';
 import {
   array,
   bool,
@@ -26,7 +26,7 @@ import {
   u64,
   u8,
   unit,
-} from '@metaplex-foundation/umi/serializers';
+} from '@stay.hungry07212/umi/serializers';
 
 export type DataViewSerializerOptions = {};
 

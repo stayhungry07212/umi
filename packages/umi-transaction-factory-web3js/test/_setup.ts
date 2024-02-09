@@ -7,8 +7,8 @@ import {
   Transaction,
   TransactionMessage,
   Umi,
-} from '@metaplex-foundation/umi';
-import { web3JsEddsa } from '@metaplex-foundation/umi-eddsa-web3js';
+} from '@stay.hungry07212/umi';
+import { web3JsEddsa } from '@stay.hungry07212/umi-eddsa-web3js';
 import {
   fromWeb3JsInstruction,
   fromWeb3JsMessage,
@@ -16,7 +16,7 @@ import {
   toWeb3JsKeypair,
   toWeb3JsPublicKey,
   toWeb3JsTransaction,
-} from '@metaplex-foundation/umi-web3js-adapters';
+} from '@stay.hungry07212/umi-web3js-adapters';
 import {
   SystemProgram,
   AddressLookupTableAccount as Web3JsAddressLookupTableAccount,

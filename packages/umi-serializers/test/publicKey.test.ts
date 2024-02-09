@@ -1,7 +1,7 @@
 import {
   publicKeyBytes,
   publicKey as toPublicKey,
-} from '@metaplex-foundation/umi-public-keys';
+} from '@stay.hungry07212/umi-public-keys';
 import test from 'ava';
 import { base16, publicKey } from '../src';
 import { d, s } from './_helpers';

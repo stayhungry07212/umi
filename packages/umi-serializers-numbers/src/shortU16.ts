@@ -2,7 +2,7 @@
 import {
   BaseSerializerOptions,
   Serializer,
-} from '@metaplex-foundation/umi-serializers-core';
+} from '@stay.hungry07212/umi-serializers-core';
 import { assertRange } from './utils';
 
 /**

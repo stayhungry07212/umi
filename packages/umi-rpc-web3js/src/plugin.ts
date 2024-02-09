@@ -1,4 +1,4 @@
-import { UmiPlugin } from '@metaplex-foundation/umi';
+import { UmiPlugin } from '@stay.hungry07212/umi';
 import type { Connection as Web3JsConnection } from '@solana/web3.js';
 import { createWeb3JsRpc, Web3JsRpcOptions } from './createWeb3JsRpc';
 

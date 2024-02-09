@@ -1,4 +1,4 @@
-import { isPublicKey, utf8 } from '@metaplex-foundation/umi';
+import { isPublicKey, utf8 } from '@stay.hungry07212/umi';
 import test from 'ava';
 import { createWeb3JsEddsa } from '../src';
 

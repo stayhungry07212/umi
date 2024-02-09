@@ -1,7 +1,7 @@
 import {
   BaseSerializerOptions,
   Serializer,
-} from '@metaplex-foundation/umi-serializers-core';
+} from '@stay.hungry07212/umi-serializers-core';
 
 /**
  * Defines a serializer for numbers and bigints.
